@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the sentiment of tweets fetched from Twitter using the **Tweepy** library and performs sentiment analysis using **TextBlob** or **VADER**. The analysis identifies whether the tweets have a positive, negative, or neutral sentiment. The results are visualized using **matplotlib**.
+This project analyzes the sentiment of tweets fetched from Twitter using the **Tweepy** library and performs sentiment analysis using **TextBlob**. The analysis identifies whether the tweets have a positive, negative, or neutral sentiment. The results are visualized using **matplotlib**.
 
 ---
 
