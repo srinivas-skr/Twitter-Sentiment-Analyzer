@@ -19,7 +19,7 @@ This project analyzes the sentiment of tweets fetched from Twitter using the **T
 
 - **Python**: Main programming language.
 - **Tweepy**: Library to interact with the Twitter API.
-- **TextBlob** or **VADER Sentiment**: For sentiment analysis.
+- **TextBlob** : For sentiment analysis.
 - **Matplotlib**: For creating visualizations.
 - **WordCloud**: To visualize the most frequent words.
 
